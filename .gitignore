@@ -5,3 +5,4 @@ Makefile
 child.o
 parent.o
 main.o
+.DS_Store
