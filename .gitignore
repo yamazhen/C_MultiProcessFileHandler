@@ -1,0 +1,7 @@
+output/*
+input.txt
+pipe_program
+Makefile
+child.o
+parent.o
+main.o
